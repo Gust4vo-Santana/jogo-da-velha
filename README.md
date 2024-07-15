@@ -16,14 +16,14 @@ Este é um projeto simples de um Jogo da Velha (Tic-Tac-Toe) desenvolvido em Jav
    git clone https://github.com/Gust4vo-Santana/jogo-da-velha.git
    ```
 
-3. Navegue até arquivo fonte do diretório do projeto.
+3. Navegue até arquivo fonte do projeto.
    ```sh
    cd jogo-da-velha/src
    ```
 
 4. Compile o código-fonte.
    ```sh
-   javac -d out src/game/GameImpl.java
+   javac -d out game/GameImpl.java
    ```
 
 5. Execute o jogo.
