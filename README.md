@@ -13,7 +13,7 @@ Este é um projeto simples de um Jogo da Velha (Tic-Tac-Toe) desenvolvido em Jav
 
 1. Clone este repositório para sua máquina local.
    ```sh
-   https://github.com/Gust4vo-Santana/jogo-da-velha.git
+   git clone https://github.com/Gust4vo-Santana/jogo-da-velha.git
    ```
 
 3. Navegue até o diretório do projeto.
