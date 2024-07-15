@@ -1,7 +1,7 @@
 
 # Jogo da Velha em Java
 
-Este é um projeto simples de um Jogo da Velha (Tic-Tac-Toe) desenvolvido em Java, onde a interface e a interação são todas feitas via terminal. Desenvolvi esse projetinho para treinar programação em Java e alguns conceitos de orientação a obejtos.
+Este é um projeto simples de um Jogo da Velha (Tic-Tac-Toe) desenvolvido em Java, no qual a interface é feita via terminal. Desenvolvi esse projetinho para treinar programação em Java e alguns conceitos de orientação a obejtos.
 
 ## Funcionalidades
 
